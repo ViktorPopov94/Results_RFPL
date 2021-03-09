@@ -1,0 +1,161 @@
+[
+  {
+    "club": "ПФК ЦСКА",
+    "xG_for_At_Home": 2.05,
+    "xG_for_At_Away": 2.00,
+    "Scored_Match": 1.76,
+    "Conceded_Match": 0.9,
+    "xG_against_At_Home": 1.18,
+    "xG_against_At_Away": 1.52
+  },
+
+  {
+    "club": "Ротор",
+    "xG_for_At_Home": 0.93,
+    "xG_for_At_Away": 0.88,
+    "Scored_Match": 0.36,
+    "Conceded_Match": 1.27,
+    "xG_against_At_Home": 1.81,
+    "xG_against_At_Away": 2.09
+  },
+
+  {
+    "club": "Ростов",
+    "xG_for_At_Home": 1.39,
+    "xG_for_At_Away": 1.13,
+    "Scored_Match": 1.24,
+    "Conceded_Match": 1.05,
+    "xG_against_At_Home": 1.32,
+    "xG_against_At_Away": 1.57
+  },
+
+  {
+    "club": "Урал",
+    "xG_for_At_Home": 1.04,
+    "xG_for_At_Away": 1.25,
+    "Scored_Match": 0.9,
+    "Conceded_Match": 0.9,
+    "xG_against_At_Home": 1.59,
+    "xG_against_At_Away": 1.71
+  },
+
+  {
+    "club": "Динамо",
+    "xG_for_At_Home": 1.69,
+    "xG_for_At_Away": 1.71,
+    "Scored_Match": 1.33,
+    "Conceded_Match": 1.05,
+    "xG_against_At_Home": 1.31,
+    "xG_against_At_Away": 1.47
+  },
+
+   {
+    "club": "Спартак",
+    "xG_for_At_Home": 1.86,
+    "xG_for_At_Away": 1.7,
+    "Scored_Match": 1.86,
+    "Conceded_Match": 1.14,
+    "xG_against_At_Home": 1.37,
+    "xG_against_At_Away": 1.58
+  },
+
+  {
+    "club": "Арсенал",
+    "xG_for_At_Home": 1.64,
+    "xG_for_At_Away": 1.38,
+    "Scored_Match": 0.85,
+    "Conceded_Match": 1.7,
+    "xG_against_At_Home": 1.25,
+    "xG_against_At_Away": 1.58
+  },
+
+  {
+    "club": "Рубин",
+    "xG_for_At_Home": 1.64,
+    "xG_for_At_Away": 1.60,
+    "Scored_Match": 1.3,
+    "Conceded_Match": 1.25,
+    "xG_against_At_Home": 1.37,
+    "xG_against_At_Away": 1.52
+  },
+
+  {
+    "club": "Зенит",
+    "xG_for_At_Home": 2.59,
+    "xG_for_At_Away": 1.82,
+    "Scored_Match": 2.25,
+    "Conceded_Match": 0.85,
+    "xG_against_At_Home": 1.23,
+    "xG_against_At_Away": 1.29
+  },
+
+  {
+    "club": "Локомотив",
+    "xG_for_At_Home": 1.60,
+    "xG_for_At_Away": 1.31,
+    "Scored_Match": 1.15,
+    "Conceded_Match": 1.25,
+    "xG_against_At_Home": 1.16,
+    "xG_against_At_Away": 1.70
+  },
+
+   {
+    "club": "Краснодар",
+    "xG_for_At_Home": 2.18,
+    "xG_for_At_Away": 1.75,
+    "Scored_Match": 1.81,
+    "Conceded_Match": 1.29,
+    "xG_against_At_Home": 1.35,
+    "xG_against_At_Away": 1.50
+  },
+
+  {
+    "club": "Тамбов",
+    "xG_for_At_Home": 0.86,
+    "xG_for_At_Away": 0.72,
+    "Scored_Match": 0.67,
+    "Conceded_Match": 1.62,
+    "xG_against_At_Home": 1.75,
+    "xG_against_At_Away": 2.05
+  },
+
+  {
+    "club": "Уфа",
+    "xG_for_At_Home": 1.12,
+    "xG_for_At_Away": 0.94,
+    "Scored_Match": 0.71,
+    "Conceded_Match": 1.57,
+    "xG_against_At_Home": 1.6,
+    "xG_against_At_Away": 1.63
+  },
+
+  {
+    "club": "Сочи",
+    "xG_for_At_Home": 1.60,
+    "xG_for_At_Away": 1.35,
+    "Scored_Match": 1.52,
+    "Conceded_Match": 1.05,
+    "xG_against_At_Home": 1.34,
+    "xG_against_At_Away": 1.51
+  },
+
+  {
+    "club": "Химки",
+    "xG_for_At_Home": 1.64,
+    "xG_for_At_Away": 1.17,
+    "Scored_Match": 1.24,
+    "Conceded_Match": 1.48,
+    "xG_against_At_Home": 1.71,
+    "xG_against_At_Away": 1.97
+  },
+
+  {
+    "club": "Ахмат",
+    "xG_for_At_Home": 1.80,
+    "xG_for_At_Away": 1.31,
+    "Scored_Match": 0.95,
+    "Conceded_Match": 1.19,
+    "xG_against_At_Home": 1.13,
+    "xG_against_At_Away": 1.64
+  }
+]
